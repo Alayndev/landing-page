@@ -133,6 +133,9 @@ a {
   .hamburger {
     display: block;
   }
+  .hero-image {
+    display: none;
+  }
 }
 
 .nav_btn_1 {
